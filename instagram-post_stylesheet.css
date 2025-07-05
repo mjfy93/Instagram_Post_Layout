@@ -1,0 +1,53 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: black;
+}
+.post {
+  background-color: white;
+  position:absolute;
+  width: 500px;
+  margin: 20px 30%;
+}
+.heading {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  height:auto;
+}
+.first-heading-icon {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.second-heading-icon{
+  display: flex;
+  align-items: center;
+}
+#icon-fish{
+  font-size: 30px;
+}
+#texto-head{
+  font-size: 15px;
+}
+#elipses{
+  font-size: 30px;
+}
+
+.video {
+  display: flex;
+  width: 100%;
+  height:auto;
+}
+#videoPez{
+  width: 100%;
+}
+.icons{
+  font-size: 40px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  height:auto;
+}
+.post-body{
+  padding:15px;
+}
